@@ -14,7 +14,7 @@ We will provide insights for governments and national public health agencies to 
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU051_01: Under-vaccination and severe COVID-19 outcomes: meta-analysis of national cohort studies in England, Northern Ireland, Scotland and Wales](https://github.com/BHFDSC/CCU051_01)
 
 ## Project approval
 
